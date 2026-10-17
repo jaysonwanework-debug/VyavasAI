@@ -1,0 +1,6 @@
+{
+  "name": "VyavasAI - 7.3 Vernacular Voice OS",
+  "description": "Voice-first agentic operating system for Indian MSME shop owners (Kirana stores) supporting Marathi, Tamil, Hindi, and English.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
